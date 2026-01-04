@@ -26,7 +26,7 @@ A conversational Bible study assistant powered by Claude API and the FHL (信望
 
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/yourusername/bible-chatbot.git
+git clone https://github.com/Peter-Tan/FHLbible-chatbot.git
 cd bible-chatbot
 ```
 
